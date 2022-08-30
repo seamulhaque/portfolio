@@ -1,0 +1,205 @@
+
+     @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&family=Rubik+Wet+Paint&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+*{margin:0;padding:0;}
+#header{
+   margin: auto;
+}
+     .header1{ 
+     height: 40px;
+     width: auto;
+     background-color: rgb(4, 235, 235);
+      }
+      .logoBar{
+         width:auto;
+         font-family: 'Rubik Glitch', cursive;
+         text-align: center;
+         line-height: 60px;
+         font-size:25px;
+         float: left;
+         padding-left: 30px;
+      }
+      .logoBar a{
+         text-decoration: none;
+         color: rgb(75, 3, 3);
+      }
+      .logoBar a:hover{ color: #7a2a05;}
+      .subHeader1{
+         width: 700px;
+         height:38px;
+         line-height: 30px;
+         margin: auto;
+      }
+
+.phoneBar{
+    width: 220px;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+    float: left;
+ }
+ .phoneBar span{
+    color: rgb(37, 21, 21);
+    font-size: 16px;
+
+ }
+ .phoneBar i{ padding-right: 3px;}
+.mailbar{
+width: 310px;
+height:40px;
+text-align:left;
+line-height: 40px ;
+float: left;
+font-size:17px;;
+}
+.social{
+   width: 160px;
+   float: left;
+}
+.faceBook{
+   width: 35px;
+   height: 38px;
+   float: left;
+   border-left: 1px solid aliceblue;
+   line-height: 38px;
+   text-align: center;
+   font-size: 20px;
+   color:black ;
+}
+.faceBook a:hover{   color: #e04f0b;}
+
+.instaGram{
+   width: 35px;
+   height: 38px;
+   float: left;
+   border-left: 1px solid aliceblue;
+   line-height: 38px;
+   text-align: center;
+   font-size: 20px;
+   
+ }
+ .instaGram a:hover{   color: #e04f0b;}
+.linkedIn{
+   width: 35px;
+   height: 38px;
+   float: left;
+   line-height: 38px;
+   text-align: center;
+   font-size: 20px;
+   color: #201915;
+   border-left: 1px solid aliceblue;
+   border-right: 1px solid aliceblue;
+   transition: 0.3s;
+}
+.linkedIn a:hover{   
+   color: #e04f0b;
+}
+#container{
+   background-color: aqua;
+   overflow: hidden;
+   height: 60px;
+   margin-top:01px;
+}
+.marque{
+   width: 500px;
+   color: #5a2006;
+   text-align: center;
+   float: left;
+   line-height:60px;
+   margin-left: 20px;  
+   border-right: 1px solid aliceblue;
+   border-left : 1px solid aliceblue;
+   height: 50px;
+   margin-top:4px;
+   direction: ltr; 
+}
+
+.barwrapper{
+   width: 500px;
+   margin: auto;
+   float:left;
+}
+.home{
+   float: left;
+   width: 100px;
+   text-align: center;
+   font-size: 20px;
+   font-weight: 600;
+  line-height: 60px;
+}
+.home a:hover{
+   color: #e04f0b;
+}
+.home a{ 
+   text-decoration: none;
+   color: rgba(44, 43, 42, 0.95);}
+.aboutme{
+   float: left;
+   width: 150px;
+   text-align: center;
+   font-size: 20px;
+   font-weight: 600;
+  line-height: 60px;
+}
+.aboutme i{padding-right: 5px;}
+.aboutme a:hover{
+   color: #e04f0b;
+}
+.aboutme a{
+   text-decoration: none;
+   color: rgba(44, 43, 42, 0.95);
+}
+.myprtfolios{
+   float: left;
+   width: 120px;
+   text-align: center;
+   font-size: 20px;
+   font-weight: 600;
+   line-height: 60px;
+  padding-left: 5px;
+}
+.myprtfolios i{
+   padding-right: 7px;
+}
+.myprtfolios a:hover{
+   color: #e04f0b;
+}
+.myprtfolios a {
+   text-decoration: none;
+   color: rgba(44, 43, 42, 0.95);}
+
+.Intriducement{
+   width:auto;
+   Height:530px;
+
+
+}
+.imageforintriduce{
+   Height:530px;
+   width:480px;
+   padding-left: 120px;
+   float: left;
+}
+.Intriduceinfo{
+   width: 660px;
+   height: 530px;
+   float:left;
+   font-family: Oswald;
+   color: #574f4a;
+
+}
+.Intriduceinfo strong{
+   font-size: 25px;
+   font-weight: 400;
+   line-height: 45px;
+}
+.Intriduceinfo h1{
+   padding-top: 50px;
+   color: rgba(44, 43, 42, 0.95);
+   padding-left: 30px;
+}
+
+.Intriduceinfo span{font-size: 30px;
+font-weight: 450;}
+.myinfo{ padding-top: 65px;}
